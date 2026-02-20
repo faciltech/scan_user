@@ -36,6 +36,7 @@ echo "   ███████║╚██████╗██║  ██║█
 echo "   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝     ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝"
 echo
 echo -e "             ${GREEN}EDUARDO AMARAL${RESET} - ${DARK_RED}OSINT Recon & Intelligence Framework${RESET}"
+echo -e "             ${GREEN}SITE:${RESET} www.eduardo-amaral.com                                            "
 echo -e "${RESET}"
 }
 
@@ -197,3 +198,4 @@ while true; do
     echo -e "${CYAN}Pressione ENTER para voltar ao menu...${RESET}"
     read
 done
+
