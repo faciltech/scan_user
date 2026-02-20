@@ -1,4 +1,5 @@
 # 🛰️ SCAN USER 2
+<img width="920" height="482" alt="image" src="https://github.com/user-attachments/assets/ce778c9f-cc61-41dd-b40f-6cd3c93503f9" />
 
 ### Lightweight Username Enumeration & OSINT Recon Tool
 
@@ -62,15 +63,15 @@ focused on speed, simplicity and terminal-based workflows.
 
 ### 1. Clone the repository
 
-git clone [https://github.com/SEU_USUARIO/scan_user2.git](https://github.com/faciltech/scan_user.git) 
+git clone https://github.com/faciltech/scan_user.git
 
 ### 2. Enter the project directory
 
-cd scan_user2
+cd scan_user
 
 ### 3. Make the script executable
 
-chmod +x scan_user2.sh
+chmod +x scan_user.sh
 
 ------------------------------------------------------------------------
 
@@ -78,23 +79,17 @@ chmod +x scan_user2.sh
 
 Run the tool:
 
-./scan_user2.sh
+./scan_user.sh
 
 Enter the target username when prompted:
 
-Enter username: johndoe
+<img width="521" height="199" alt="{2DE512DE-8997-4E02-A257-141C878DCF58}" src="https://github.com/user-attachments/assets/ad750c44-64a8-4ff5-8956-dd9d47da9e97" />
 
 ------------------------------------------------------------------------
 
 ## 🧪 Example Output
 
-\[+\] Searching profiles for: johndoe
-
-GitHub -\> https://github.com/johndoe Reddit -\>
-https://www.reddit.com/user/johndoe TikTok -\>
-https://www.tiktok.com/@johndoe Facebook -\>
-https://www.facebook.com/johndoe YouTube -\>
-https://www.youtube.com/@johndoe
+<img width="673" height="560" alt="image" src="https://github.com/user-attachments/assets/b9017888-1a95-4fd3-b398-566ec3f22a42" />
 
 ------------------------------------------------------------------------
 
@@ -116,12 +111,6 @@ Always comply with local laws and platform terms of service.
 3.  Commit changes: git commit -m "Add new feature"
 4.  Push to your fork: git push origin feature-name
 5.  Open a Pull Request
-
-------------------------------------------------------------------------
-
-## 📜 License
-
-MIT License
 
 ------------------------------------------------------------------------
 
