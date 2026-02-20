@@ -116,4 +116,4 @@ Always comply with local laws and platform terms of service.
 
 ## 👨‍💻 Author
 
-FacilTech --- Lightweight OSINT tools for real-world investigations.
+FacilTech - Eduardo Amaral - www.eduardo-amaral.com
